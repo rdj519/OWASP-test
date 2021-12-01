@@ -2821,21 +2821,79 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 833,
-                "y": 335
+                "x": 886,
+                "y": 1
               },
               "target": {
-                "x": 974,
-                "y": 488
+                "x": 985,
+                "y": 541
               },
               "vertices": [
                 {
-                  "x": 874,
-                  "y": 431
+                  "x": 836,
+                  "y": 313
                 }
               ],
               "id": "e22d0b2d-3250-4d9f-a629-42e0fd74a79a",
               "z": 32,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 449,
+                "y": 2
+              },
+              "target": {
+                "x": 336,
+                "y": 853
+              },
+              "vertices": [
+                {
+                  "x": 279,
+                  "y": 483
+                }
+              ],
+              "id": "24313d2d-663e-445a-935a-06f17ccda233",
+              "z": 33,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 133,
+                "y": 343
+              },
+              "target": {
+                "x": 900,
+                "y": 350
+              },
+              "vertices": [
+                {
+                  "x": 599,
+                  "y": 390
+                }
+              ],
+              "id": "24dfbf9f-5fb5-4e4e-9f5b-a6bad2080db3",
+              "z": 34,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 529,
+                "y": 593
+              },
+              "target": {
+                "x": 764,
+                "y": 630
+              },
+              "vertices": [],
+              "id": "2ff3cd28-1bdd-4ced-81f2-6414b0fb1fc0",
+              "z": 35,
               "attrs": {}
             }
           ]
