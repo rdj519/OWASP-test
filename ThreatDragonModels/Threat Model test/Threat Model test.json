@@ -1806,6 +1806,11 @@
           "height": 1105,
           "width": 1205
         }
+      },
+      {
+        "title": "MCO1 V2",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ]
   }
