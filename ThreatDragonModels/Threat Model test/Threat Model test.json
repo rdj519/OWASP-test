@@ -1677,6 +1677,128 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 15,
+                "y": 335
+              },
+              "target": {
+                "x": 420,
+                "y": 534
+              },
+              "vertices": [],
+              "id": "1989c42b-3327-40eb-bb6e-14a88fbd9aec",
+              "z": 56,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 1086,
+                "y": 1012
+              },
+              "target": {
+                "x": 1104,
+                "y": 285
+              },
+              "vertices": [],
+              "id": "8c5dea90-3856-4d93-88de-745bb4cf1e9c",
+              "z": 57,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 805,
+                "y": 811
+              },
+              "target": {
+                "x": 193,
+                "y": 1084
+              },
+              "vertices": [],
+              "id": "24de4cbe-b6a8-47fc-8732-4c4361a90fcd",
+              "z": 58,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 334,
+                "y": 37
+              },
+              "target": {
+                "x": 197,
+                "y": 268
+              },
+              "vertices": [],
+              "id": "61e3236d-2de8-40df-bb73-4f81e249bd0d",
+              "z": 59,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 689,
+                "y": 106
+              },
+              "target": {
+                "x": 316,
+                "y": 787
+              },
+              "vertices": [
+                {
+                  "x": 449,
+                  "y": 369
+                }
+              ],
+              "id": "ba5ed135-37fe-4e63-8cb3-18a7219b29be",
+              "z": 60,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 881,
+                "y": 299
+              },
+              "target": {
+                "x": 459,
+                "y": 571
+              },
+              "vertices": [],
+              "id": "bf6cb44e-3f0b-4cdc-9a50-4470d9e14a74",
+              "z": 61,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 645,
+                "y": 268
+              },
+              "target": {
+                "x": 854,
+                "y": 598
+              },
+              "vertices": [
+                {
+                  "x": 729,
+                  "y": 489
+                }
+              ],
+              "id": "a4ef8147-86ce-4269-bf79-124f9b04a043",
+              "z": 62,
+              "attrs": {}
             }
           ]
         },
