@@ -1910,7 +1910,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "Catalog Database\nComponent"
+                  "text": "Account and Catalogue\nDatabase Component"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -2816,6 +2816,27 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 833,
+                "y": 335
+              },
+              "target": {
+                "x": 974,
+                "y": 488
+              },
+              "vertices": [
+                {
+                  "x": 874,
+                  "y": 431
+                }
+              ],
+              "id": "e22d0b2d-3250-4d9f-a629-42e0fd74a79a",
+              "z": 32,
+              "attrs": {}
             }
           ]
         },
